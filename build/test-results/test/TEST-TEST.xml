@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TEST" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-18T06:29:41" hostname="DESKTOP-RNBL19C" time="107.513">
+<testsuite name="TEST" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-18T12:08:31" hostname="DESKTOP-RNBL19C" time="0.03">
   <properties/>
-  <testcase name="hash2()" classname="TEST" time="107.513"/>
+  <testcase name="hash3()" classname="TEST" time="0.03"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
