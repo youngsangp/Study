@@ -23,12 +23,12 @@ public class hash4 {
             }
         });
 
-        for(String key : genresCountMap.keySet()){
+        //요기
+        for(genres key : genresCountList){
             for(int i=0; i<genres.length; i++){
 
             }
         }
-
 
         return answer;
     }
