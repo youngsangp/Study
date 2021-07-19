@@ -69,4 +69,17 @@ public class TEST {
         int reuslt = hash3.hash3(args1);
         assertEquals(5, reuslt);
     }
+
+    @Test
+    void hash4(){
+        String[] args1 = { "classic", "pop", "classic", "classic", "pop" };
+        int[] args2 = { 500, 600, 150, 800, 2500 };
+
+        hash4 hash4 = new hash4();
+
+        int[] reuslt = hash4.hash4(args1, args2);
+
+        int[] expected = {4, 1, 3, 0};
+        assertEquals(expected, reuslt);
+    }
 }
