@@ -14,7 +14,8 @@ public class hash4 {
         for(String genresStr : genresCountMap.keySet()){
             genresCountList.add(new genres(genresStr, genresCountMap.get(genresStr)));
         }
-
+        
+        // 장르 플레이 수 정렬
         Collections.sort(genresCountList, new Comparator<genres>() {
             @Override
             public int compare(genres o1, genres o2) {
@@ -22,13 +23,12 @@ public class hash4 {
             }
         });
 
-        for(genres genresStr : genresCountList){
-            for(int i=0; i<plays.length;i++){
-                if(genresStr.getGenres().equals(genres[i])){
+        for(String key : genresCountMap.keySet()){
+            for(int i=0; i<genres.length; i++){
 
-                }
             }
         }
+
 
         return answer;
     }
