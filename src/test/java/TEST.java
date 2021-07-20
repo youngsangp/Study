@@ -1,5 +1,6 @@
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TEST {
@@ -80,6 +81,6 @@ public class TEST {
         int[] reuslt = hash4.hash4(args1, args2);
 
         int[] expected = {4, 1, 3, 0};
-        assertEquals(expected, reuslt);
+        assertArrayEquals(expected, reuslt);
     }
 }
