@@ -32,6 +32,13 @@ public class hash4 {
 
             for(int i=0; i<genres.length; i++){
                 if(key.getGenres().equals(genres[i])){
+                    if(cnt == 0){
+                        playsArray[0] = plays[i];
+                        tempArray[0] = i;
+                        cnt++;
+                        continue;
+                    }
+
                     if(plays[i] > playsArray[0]){
                         playsArray[1] = playsArray[0];
                         playsArray[0] = plays[i];
@@ -46,7 +53,7 @@ public class hash4 {
             }
 
             temp.add(tempArray[0]);
-            if(cnt>=1){
+            if(cnt>=2){
                 temp.add(tempArray[1]);
             }
         }
