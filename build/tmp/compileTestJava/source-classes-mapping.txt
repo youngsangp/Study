@@ -1,2 +1,12 @@
 TEST.java
  TEST
+hash3Test.java
+ hash3Test
+hash2Test.java
+ hash2Test
+array1Test.java
+ array1Test
+hash1Test.java
+ hash1Test
+hash4Test.java
+ hash4Test

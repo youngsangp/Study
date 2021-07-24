@@ -8,3 +8,5 @@ hash4.java
  genres
  hash4
  hash4$1
+array1.java
+ array1
