@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fullsearch1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-01T10:06:41" hostname="DESKTOP-RNBL19C" time="0.036">
+  <properties/>
+  <testcase name="fullsearch1Test()" classname="fullsearch1Test" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

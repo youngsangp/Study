@@ -12,8 +12,8 @@ array1.java
  array1
 hash3.java
  hash3
-fullsearch1.java
- fullsearch1
 array2.java
  array2
  array2$1
+fullsearch1.java
+ fullsearch1

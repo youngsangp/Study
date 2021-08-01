@@ -1,18 +1,18 @@
+hash4Test.java
+ hash4Test
+hash3Test.java
+ hash3Test
 TEST.java
  TEST
+array2Test.java
+ array2Test
+array3Test.java
+ array3Test
+hash2Test.java
+ hash2Test
 array1Test.java
  array1Test
 hash1Test.java
  hash1Test
-hash3Test.java
- hash3Test
-hash4Test.java
- hash4Test
-hash2Test.java
- hash2Test
-array2Test.java
- array2Test
 fullsearch1Test.java
  fullsearch1Test
-array3Test.java
- array3Test
