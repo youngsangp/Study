@@ -12,5 +12,7 @@ hash2Test.java
  hash2Test
 array2Test.java
  array2Test
+fullsearch1Test.java
+ fullsearch1Test
 array3Test.java
  array3Test

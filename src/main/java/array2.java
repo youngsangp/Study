@@ -1,20 +1,32 @@
+import java.lang.reflect.Array;
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class array2 {
     public String array2(int[] numbers) {
         String answer = "";
 
-        //System.out.println(1<<numbers.length);
-        int[] tempArray = new int[1<<numbers.length];
+        String[] strArray = new String[numbers.length];
 
-        for(int i = 0; i < (1<<numbers.length); i++){
-            for(int j=0; j<numbers.length; j++){
-                //numbers[]
-
-            }
+        for(int i=0; i<numbers.length; i++){
+            strArray[i] = Integer.toString(numbers[i]);
         }
-        Arrays.sort(tempArray);
-        answer = Integer.toString(tempArray[0]);
+
+        Arrays.sort(strArray, new Comparator<String>() {
+            @Override
+            public int compare(String o1, String o2) {
+                return (o2+o1).compareTo(o1+o2);
+            }
+        });
+
+        for(String num : strArray){
+            answer += num;
+        }
+
+        if(answer.charAt(0) == "0".charAt(0)){
+            answer = "0";
+        };
+
 
         return answer;
     }
