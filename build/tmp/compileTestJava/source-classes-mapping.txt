@@ -16,3 +16,5 @@ hash1Test.java
  hash1Test
 fullsearch1Test.java
  fullsearch1Test
+fullsearch2Test.java
+ fullsearch2Test

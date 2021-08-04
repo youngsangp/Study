@@ -1,5 +1,8 @@
-array3.java
- array3
+fullsearch1.java
+ fullsearch1
+array2.java
+ array2
+ array2$1
 hash2.java
  hash2
 hash4.java
@@ -10,10 +13,9 @@ hash1.java
  hash1
 array1.java
  array1
+array3.java
+ array3
 hash3.java
  hash3
-array2.java
- array2
- array2$1
-fullsearch1.java
- fullsearch1
+fullsearch2.java
+ fullsearch2
