@@ -19,3 +19,5 @@ hash3.java
  hash3
 fullsearch2.java
  fullsearch2
+fullsearch3.java
+ fullsearch3

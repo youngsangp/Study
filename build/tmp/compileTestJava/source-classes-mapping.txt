@@ -18,3 +18,5 @@ fullsearch1Test.java
  fullsearch1Test
 fullsearch2Test.java
  fullsearch2Test
+fullsearch3Test.java
+ fullsearch3Test
