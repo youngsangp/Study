@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kakaoblind2021.newidrecommendationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-12T14:02:48" hostname="DESKTOP-RNBL19C" time="0.033">
+  <properties/>
+  <testcase name="newidrecommendationTest()" classname="kakaoblind2021.newidrecommendationTest" time="0.033"/>
+  <system-out><![CDATA[STEP1 END: .......aaa.......
+STEP2 END: .......aaa.......
+STEP3 END: .aaa.
+STEP4 END: aaa
+STEP5 END: aaa
+STEP6 END: aaa
+STEP7 END: aaa
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
