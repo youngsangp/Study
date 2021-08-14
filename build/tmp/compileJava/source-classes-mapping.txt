@@ -1,5 +1,7 @@
 programmers/fullsearch3.java
  programmers.fullsearch3
+kakaoblind2021/ranksearch.java
+ kakaoblind2021.ranksearch
 programmers/array1.java
  programmers.array1
 programmers/hash2.java
@@ -8,6 +10,8 @@ programmers/array3.java
  programmers.array3
 kakaoblind2021/newidrecommendation.java
  kakaoblind2021.newidrecommendation
+kakaoblind2021/menurenewer.java
+ kakaoblind2021.menurenewer
 programmers/hash1.java
  programmers.hash1
 programmers/dfsbfs1.java
@@ -22,12 +26,10 @@ programmers/hash4.java
  programmers.genres
  programmers.hash4
  programmers.hash4$1
+kakaoblind2021/sharedtaxifare.java
+ kakaoblind2021.sharedtaxifare
 programmers/array2.java
  programmers.array2
  programmers.array2$1
-kakaoblind2021/menurenewer.java
- kakaoblind2021.menurenewer
-kakaoblind2021/ranksearch.java
- kakaoblind2021.ranksearch
-kakaoblind2021/sharedtaxifare.java
- kakaoblind2021.sharedtaxifare
+kakaoblind2021/Adinsertion.java
+ kakaoblind2021.Adinsertion
