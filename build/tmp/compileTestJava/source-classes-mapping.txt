@@ -24,3 +24,7 @@ programmers/array2Test.java
  programmers.array2Test
 kakaoblind2021/newidrecommendationTest.java
  kakaoblind2021.newidrecommendationTest
+kakaoblind2021/menurenewerTest.java
+ kakaoblind2021.menurenewerTest
+kakaoblind2021/ranksearchTest.java
+ kakaoblind2021.ranksearchTest
