@@ -29,3 +29,5 @@ kakaoblind2021/menurenewer.java
  kakaoblind2021.menurenewer
 kakaoblind2021/ranksearch.java
  kakaoblind2021.ranksearch
+kakaoblind2021/sharedtaxifare.java
+ kakaoblind2021.sharedtaxifare
