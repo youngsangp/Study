@@ -34,3 +34,15 @@ kakaoblind2021/AdinsertionTest.java
  kakaoblind2021.AdinsertionTest
 programmers/dfsbfs2Test.java
  programmers.dfsbfs2Test
+programmers/dfsbfs3Test.java
+ programmers.dfsbfs3Test
+kakaobank/programming4Test.java
+ kakaobank.programming4Test
+kakaobank/programming2Test.java
+ kakaobank.programming2Test
+kakaobank/programming3Test.java
+ kakaobank.programming3Test
+kakaobank/programming5Test.java
+ kakaobank.programming5Test
+programmers/dfsbfs4Test.java
+ programmers.dfsbfs4Test
