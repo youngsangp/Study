@@ -51,3 +51,5 @@ programmers/stackqueue1.java
  programmers.stackqueue1
 programmers/stackqueue2.java
  programmers.stackqueue2
+programmers/stackqueue3.java
+ programmers.stackqueue3
