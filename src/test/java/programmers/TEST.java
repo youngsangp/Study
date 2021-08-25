@@ -1,10 +1,10 @@
 package programmers;
 
 import org.junit.jupiter.api.Test;
-import programmers.hash1;
-import programmers.hash2;
-import programmers.hash3;
-import programmers.hash4;
+import programmers.hash.hash1;
+import programmers.hash.hash2;
+import programmers.hash.hash3;
+import programmers.hash.hash4;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;

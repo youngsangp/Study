@@ -1,55 +1,57 @@
 kakaobank/programming2.java
  kakaobank.programming2
-programmers/fullsearch3.java
- programmers.fullsearch3
 kakaobank/programming5.java
  kakaobank.programming5
-kakaoblind2021/ranksearch.java
- kakaoblind2021.ranksearch
-programmers/array1.java
- programmers.array1
-programmers/dfsbfs3.java
- programmers.dfsbfs3
-programmers/hash2.java
- programmers.hash2
-programmers/array3.java
- programmers.array3
+programmers/array/array1.java
+ programmers.array.array1
+programmers/dfsbfs/dfsbfs3.java
+ programmers.dfsbfs.dfsbfs3
+programmers/fullsearch/fullsearch3.java
+ programmers.fullsearch.fullsearch3
 kakaoblind2021/newidrecommendation.java
  kakaoblind2021.newidrecommendation
+programmers/hash/hash2.java
+ programmers.hash.hash2
 kakaoblind2021/menurenewer.java
  kakaoblind2021.menurenewer
-programmers/hash1.java
- programmers.hash1
-programmers/dfsbfs4.java
- programmers.dfsbfs4
+programmers/stackqueue/stackqueue1.java
+ programmers.stackqueue.stackqueue1
 kakaoblind2021/Adinsertion.java
  kakaoblind2021.Adinsertion
-programmers/dfsbfs1.java
- programmers.dfsbfs1
-programmers/fullsearch1.java
- programmers.fullsearch1
-kakaobank/programming4.java
- kakaobank.programming4
-programmers/fullsearch2.java
- programmers.fullsearch2
-programmers/hash3.java
- programmers.hash3
-programmers/hash4.java
- programmers.genres
- programmers.hash4
- programmers.hash4$1
+programmers/fullsearch/fullsearch2.java
+ programmers.fullsearch.fullsearch2
+programmers/hash/hash3.java
+ programmers.hash.hash3
 kakaobank/programming3.java
  kakaobank.programming3
 kakaoblind2021/sharedtaxifare.java
  kakaoblind2021.sharedtaxifare
-programmers/array2.java
- programmers.array2
- programmers.array2$1
-programmers/dfsbfs2.java
- programmers.dfsbfs2
-programmers/stackqueue1.java
- programmers.stackqueue1
-programmers/stackqueue2.java
- programmers.stackqueue2
-programmers/stackqueue3.java
- programmers.stackqueue3
+programmers/dfsbfs/dfsbfs2.java
+ programmers.dfsbfs.dfsbfs2
+kakaoblind2021/ranksearch.java
+ kakaoblind2021.ranksearch
+programmers/hash/hash4.java
+ programmers.hash.genres
+ programmers.hash.hash4
+ programmers.hash.hash4$1
+programmers/hash/hash1.java
+ programmers.hash.hash1
+programmers/array/array2.java
+ programmers.array.array2
+ programmers.array.array2$1
+programmers/dfsbfs/dfsbfs4.java
+ programmers.dfsbfs.dfsbfs4
+programmers/fullsearch/fullsearch1.java
+ programmers.fullsearch.fullsearch1
+programmers/stackqueue/stackqueue3.java
+ programmers.stackqueue.stackqueue3
+programmers/dfsbfs/dfsbfs1.java
+ programmers.dfsbfs.dfsbfs1
+kakaobank/programming4.java
+ kakaobank.programming4
+programmers/array/array3.java
+ programmers.array.array3
+programmers/stackqueue/stackqueue2.java
+ programmers.stackqueue.stackqueue2
+programmers/stackqueue/stackqueue4.java
+ programmers.stackqueue.stackqueue4

@@ -1,54 +1,56 @@
-programmers/dfsbfs1Test.java
- programmers.dfsbfs1Test
-programmers/hash3Test.java
- programmers.hash3Test
-programmers/hash1Test.java
- programmers.hash1Test
-programmers/fullsearch1Test.java
- programmers.fullsearch1Test
-programmers/fullsearch2Test.java
- programmers.fullsearch2Test
-programmers/fullsearch3Test.java
- programmers.fullsearch3Test
-programmers/TEST.java
- programmers.TEST
-programmers/array3Test.java
- programmers.array3Test
-programmers/hash2Test.java
- programmers.hash2Test
-programmers/hash4Test.java
- programmers.hash4Test
-programmers/array1Test.java
- programmers.array1Test
-programmers/array2Test.java
- programmers.array2Test
-kakaoblind2021/newidrecommendationTest.java
- kakaoblind2021.newidrecommendationTest
-kakaoblind2021/menurenewerTest.java
- kakaoblind2021.menurenewerTest
-kakaoblind2021/ranksearchTest.java
- kakaoblind2021.ranksearchTest
-kakaoblind2021/sharedtaxifareTest.java
- kakaoblind2021.sharedtaxifareTest
-kakaoblind2021/AdinsertionTest.java
- kakaoblind2021.AdinsertionTest
-programmers/dfsbfs2Test.java
- programmers.dfsbfs2Test
-programmers/dfsbfs3Test.java
- programmers.dfsbfs3Test
-kakaobank/programming4Test.java
- kakaobank.programming4Test
 kakaobank/programming2Test.java
  kakaobank.programming2Test
+kakaoblind2021/ranksearchTest.java
+ kakaoblind2021.ranksearchTest
+kakaoblind2021/AdinsertionTest.java
+ kakaoblind2021.AdinsertionTest
+kakaobank/programming4Test.java
+ kakaobank.programming4Test
 kakaobank/programming3Test.java
  kakaobank.programming3Test
 kakaobank/programming5Test.java
  kakaobank.programming5Test
-programmers/dfsbfs4Test.java
- programmers.dfsbfs4Test
-programmers/stackqueue1Test.java
- programmers.stackqueue1Test
-programmers/stackqueue2Test.java
- programmers.stackqueue2Test
-programmers/stackqueue3Test.java
- programmers.stackqueue3Test
+kakaoblind2021/menurenewerTest.java
+ kakaoblind2021.menurenewerTest
+kakaoblind2021/newidrecommendationTest.java
+ kakaoblind2021.newidrecommendationTest
+kakaoblind2021/sharedtaxifareTest.java
+ kakaoblind2021.sharedtaxifareTest
+programmers/dfsbfs/dfsbfs3Test.java
+ programmers.dfsbfs.dfsbfs3Test
+programmers/stackqueue/stackqueue4Test.java
+ programmers.stackqueue.stackqueue4Test
+programmers/array/array3Test.java
+ programmers.array.array3Test
+programmers/stackqueue/stackqueue2Test.java
+ programmers.stackqueue.stackqueue2Test
+programmers/hash/hash4Test.java
+ programmers.hash.hash4Test
+programmers/dfsbfs/dfsbfs2Test.java
+ programmers.dfsbfs.dfsbfs2Test
+programmers/hash/hash3Test.java
+ programmers.hash.hash3Test
+programmers/array/array2Test.java
+ programmers.array.array2Test
+programmers/fullsearch/fullsearch2Test.java
+ programmers.fullsearch.fullsearch2Test
+programmers/stackqueue/stackqueue1Test.java
+ programmers.stackqueue.stackqueue1Test
+programmers/stackqueue/stackqueue3Test.java
+ programmers.stackqueue.stackqueue3Test
+programmers/hash/hash2Test.java
+ programmers.hash.hash2Test
+programmers/array/array1Test.java
+ programmers.array.array1Test
+programmers/dfsbfs/dfsbfs1Test.java
+ programmers.dfsbfs.dfsbfs1Test
+programmers/fullsearch/fullsearch1Test.java
+ programmers.fullsearch.fullsearch1Test
+programmers/fullsearch/fullsearch3Test.java
+ programmers.fullsearch.fullsearch3Test
+programmers/TEST.java
+ programmers.TEST
+programmers/hash/hash1Test.java
+ programmers.hash.hash1Test
+programmers/dfsbfs/dfsbfs4Test.java
+ programmers.dfsbfs.dfsbfs4Test
